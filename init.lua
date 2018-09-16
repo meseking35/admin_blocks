@@ -20,7 +20,7 @@ local restricted_items = {
     'default:water_source',
     'default:river_water_source',
     'fire:basic_flame',
-    'fire:perminant_flame',
+    'fire:permanent_flame',
 }
 
 -- Record a violation
